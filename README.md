@@ -1,4 +1,4 @@
-scripts
+setup git autocomplete
 =======
 To setup git autocomplete on the terminal, run
 
